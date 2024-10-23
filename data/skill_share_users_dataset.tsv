@@ -1,0 +1,151 @@
+first_name	last_name	age	project	personal_skill	desired_skill_1	desired_skill_2	desired_skill_3	location
+Bob	Johnson	34	Launch a food truck	Menu Planner	Logistics Manager	Cashier	Marketing Expert	Columbus
+Zoe	Davis	19	Create a clean energy startup	Wind Power Expert	Marketing Expert	Solar Engineer	Financial Analyst	Los Angeles
+Sophie	Clark	38	Film a short movie	Editor	Sound Technician	Actor	Cinematographer	Los Angeles
+Hannah	Moore	52	Develop a mobile app	UI/UX Designer	App Developer	Backend Developer	QA Tester	Los Angeles
+Oliver	Robinson	23	Start a community garden	Horticulturist	Garden Planner	Event Coordinator	Fundraiser	Fort Worth
+Kyle	King	49	Create a clean energy startup	Solar Engineer	Wind Power Expert	Financial Analyst	Business Strategist	Fort Worth
+Ian	Perez	23	Develop a mobile app	App Developer	Product Manager	UI/UX Designer	QA Tester	San Diego
+Alice	Jackson	46	Develop a mobile app	QA Tester	App Developer	UI/UX Designer	Product Manager	Chicago
+Yara	Lewis	22	Assemble a band	Keyboardist	Guitarist	Sound Engineer	Vocalist	Chicago
+Will	Anderson	42	Create a clean energy startup	Business Strategist	Marketing Expert	Financial Analyst	Solar Engineer	Philadelphia
+Ian	Thompson	24	Create a clean energy startup	Financial Analyst	Wind Power Expert	Marketing Expert	Solar Engineer	Houston
+Hannah	King	21	Design a video game	Sound Designer	Animator	3D Modeler	Game Developer	Phoenix
+Alice	Johnson	18	Build a robot	CAD Designer	Programmer	Robotics Technician	Electrical Engineer	Seattle
+Hannah	Robinson	35	Develop a mobile app	App Developer	QA Tester	Product Manager	UI/UX Designer	Seattle
+Oliver	Walker	45	Film a short movie	Cinematographer	Scriptwriter	Director	Editor	Los Angeles
+Charlie	Young	44	Develop a mobile app	Backend Developer	Product Manager	QA Tester	App Developer	Austin
+Nina	Thompson	46	Create a clean energy startup	Marketing Expert	Business Strategist	Wind Power Expert	Solar Engineer	Columbus
+Nina	Young	32	Organize a fundraiser	Public Relations	Graphic Designer	Marketing Specialist	Event Planner	New York
+Julia	Martinez	44	Build a robot	Robotics Technician	Programmer	CAD Designer	Mechanical Engineer	Seattle
+Mia	Robinson	39	Create a clean energy startup	Marketing Expert	Financial Analyst	Wind Power Expert	Solar Engineer	Philadelphia
+Sophie	Harris	22	Assemble a band	Guitarist	Keyboardist	Vocalist	Sound Engineer	Washington
+Paul	Robinson	51	Create a clean energy startup	Solar Engineer	Wind Power Expert	Business Strategist	Financial Analyst	Boston
+Yara	Garcia	50	Publish a digital magazine	Writer	Photographer	Graphic Designer	Social Media Manager	Phoenix
+Liam	Taylor	18	Launch a food truck	Marketing Expert	Menu Planner	Logistics Manager	Chef	Indianapolis
+Zoe	Johnson	41	Assemble a band	Drummer	Keyboardist	Guitarist	Sound Engineer	Fort Worth
+Yara	Young	33	Assemble a band	Keyboardist	Guitarist	Drummer	Vocalist	Fort Worth
+Uma	Young	28	Assemble a band	Guitarist	Drummer	Sound Engineer	Bassist	New York
+Tom	Lee	18	Create a clean energy startup	Solar Engineer	Marketing Expert	Financial Analyst	Wind Power Expert	Denver
+Julia	Martin	55	Launch a food truck	Cashier	Logistics Manager	Chef	Menu Planner	New York
+Paul	Martinez	58	Design a video game	Animator	Sound Designer	Game Designer	Game Developer	Jacksonville
+Rachel	Wilson	53	Create a clean energy startup	Business Strategist	Financial Analyst	Wind Power Expert	Marketing Expert	Dallas
+Paul	Lee	25	Organize a fundraiser	Graphic Designer	Event Planner	Volunteer Coordinator	Public Relations	Houston
+Charlie	King	33	Create a clean energy startup	Solar Engineer	Wind Power Expert	Business Strategist	Marketing Expert	Los Angeles
+Nina	Smith	40	Develop a mobile app	QA Tester	Backend Developer	App Developer	UI/UX Designer	San Jose
+David	White	40	Publish a digital magazine	Editor	Graphic Designer	Writer	Photographer	Washington
+Frank	Robinson	28	Film a short movie	Cinematographer	Actor	Scriptwriter	Editor	Denver
+Liam	Brown	42	Film a short movie	Scriptwriter	Director	Cinematographer	Actor	Charlotte
+Kyle	Lee	18	Launch a food truck	Menu Planner	Chef	Cashier	Logistics Manager	San Antonio
+Charlie	Martinez	55	Film a short movie	Director	Editor	Sound Technician	Scriptwriter	Austin
+Kyle	Smith	25	Publish a digital magazine	Graphic Designer	Photographer	Writer	Editor	Columbus
+Vera	Thompson	29	Build a robot	CAD Designer	Robotics Technician	Electrical Engineer	Mechanical Engineer	Fort Worth
+Grace	Davis	33	Develop a mobile app	Product Manager	QA Tester	Backend Developer	App Developer	Boston
+Yara	Perez	56	Assemble a band	Vocalist	Sound Engineer	Guitarist	Keyboardist	New York
+Ian	Harris	59	Start a community garden	Event Coordinator	Garden Planner	Volunteer Coordinator	Fundraiser	Philadelphia
+Frank	Walker	35	Develop a mobile app	UI/UX Designer	App Developer	QA Tester	Product Manager	Fort Worth
+Nina	Miller	25	Create a clean energy startup	Solar Engineer	Business Strategist	Wind Power Expert	Financial Analyst	San Antonio
+Sophie	Clark	56	Launch a food truck	Logistics Manager	Chef	Cashier	Marketing Expert	Boston
+Charlie	Wilson	39	Start a community garden	Garden Planner	Volunteer Coordinator	Horticulturist	Fundraiser	San Jose
+Liam	Harris	58	Design a video game	Animator	3D Modeler	Sound Designer	Game Developer	Los Angeles
+Sophie	Martinez	42	Film a short movie	Director	Actor	Editor	Sound Technician	Phoenix
+Bob	Lewis	59	Launch a food truck	Menu Planner	Logistics Manager	Chef	Marketing Expert	Boston
+Will	Garcia	49	Create a clean energy startup	Solar Engineer	Marketing Expert	Wind Power Expert	Business Strategist	Washington
+Charlie	Moore	23	Assemble a band	Keyboardist	Guitarist	Bassist	Sound Engineer	San Diego
+Liam	Perez	52	Build a robot	Mechanical Engineer	Programmer	Robotics Technician	CAD Designer	New York
+Quincy	Taylor	32	Design a video game	3D Modeler	Sound Designer	Animator	Game Designer	Indianapolis
+Charlie	Harris	21	Start a community garden	Fundraiser	Volunteer Coordinator	Event Coordinator	Garden Planner	Houston
+Yara	Robinson	19	Publish a digital magazine	Photographer	Graphic Designer	Editor	Writer	Indianapolis
+Liam	Davis	37	Build a robot	Electrical Engineer	Robotics Technician	Programmer	Mechanical Engineer	San Jose
+Uma	Anderson	21	Publish a digital magazine	Editor	Photographer	Social Media Manager	Writer	San Jose
+Alice	Ramirez	36	Build a robot	Programmer	CAD Designer	Electrical Engineer	Robotics Technician	Denver
+Frank	Robinson	34	Launch a food truck	Menu Planner	Logistics Manager	Marketing Expert	Cashier	Charlotte
+Bob	Garcia	54	Design a video game	3D Modeler	Animator	Game Designer	Sound Designer	Chicago
+Ian	Garcia	20	Create a clean energy startup	Financial Analyst	Marketing Expert	Solar Engineer	Business Strategist	Denver
+Tom	Davis	40	Launch a food truck	Menu Planner	Cashier	Marketing Expert	Logistics Manager	San Antonio
+Kyle	Miller	30	Organize a fundraiser	Graphic Designer	Event Planner	Public Relations	Volunteer Coordinator	Charlotte
+Eva	Clark	46	Film a short movie	Director	Editor	Cinematographer	Sound Technician	San Antonio
+Oliver	White	24	Film a short movie	Actor	Editor	Scriptwriter	Sound Technician	Washington
+Nina	Perez	41	Assemble a band	Bassist	Keyboardist	Guitarist	Sound Engineer	Boston
+Grace	Miller	40	Organize a fundraiser	Marketing Specialist	Public Relations	Graphic Designer	Volunteer Coordinator	Denver
+Vera	Garcia	42	Organize a fundraiser	Marketing Specialist	Public Relations	Volunteer Coordinator	Event Planner	Houston
+Oliver	Smith	35	Design a video game	Animator	3D Modeler	Game Designer	Game Developer	San Diego
+David	Moore	54	Launch a food truck	Menu Planner	Marketing Expert	Chef	Logistics Manager	Seattle
+Tom	Taylor	18	Develop a mobile app	Product Manager	QA Tester	UI/UX Designer	Backend Developer	Chicago
+Yara	Lewis	32	Create a clean energy startup	Solar Engineer	Marketing Expert	Wind Power Expert	Financial Analyst	Jacksonville
+Zoe	Jackson	40	Start a community garden	Fundraiser	Event Coordinator	Horticulturist	Garden Planner	Phoenix
+Julia	Robinson	18	Build a robot	Mechanical Engineer	CAD Designer	Programmer	Robotics Technician	Indianapolis
+Oliver	Wilson	50	Start a community garden	Garden Planner	Event Coordinator	Volunteer Coordinator	Horticulturist	Austin
+Xander	Johnson	41	Start a community garden	Event Coordinator	Garden Planner	Volunteer Coordinator	Horticulturist	Jacksonville
+Xander	Jackson	42	Publish a digital magazine	Photographer	Writer	Social Media Manager	Editor	Austin
+Liam	Thompson	46	Film a short movie	Director	Sound Technician	Cinematographer	Scriptwriter	Jacksonville
+Nina	Wilson	50	Develop a mobile app	Backend Developer	UI/UX Designer	Product Manager	App Developer	Philadelphia
+Eva	Garcia	41	Launch a food truck	Cashier	Menu Planner	Logistics Manager	Chef	Los Angeles
+Rachel	Martin	30	Develop a mobile app	Backend Developer	UI/UX Designer	App Developer	Product Manager	Washington
+David	Wilson	18	Organize a fundraiser	Event Planner	Volunteer Coordinator	Marketing Specialist	Graphic Designer	Boston
+Sophie	Miller	36	Create a clean energy startup	Solar Engineer	Marketing Expert	Financial Analyst	Business Strategist	San Jose
+Frank	Robinson	23	Launch a food truck	Logistics Manager	Marketing Expert	Menu Planner	Chef	Houston
+Alice	Davis	49	Publish a digital magazine	Editor	Photographer	Social Media Manager	Writer	Houston
+Nina	Martin	49	Organize a fundraiser	Event Planner	Graphic Designer	Marketing Specialist	Volunteer Coordinator	Los Angeles
+Rachel	Martinez	35	Design a video game	3D Modeler	Animator	Game Developer	Sound Designer	Indianapolis
+David	Jackson	35	Assemble a band	Keyboardist	Sound Engineer	Bassist	Drummer	Chicago
+Quincy	Wilson	42	Create a clean energy startup	Marketing Expert	Business Strategist	Wind Power Expert	Financial Analyst	Denver
+Yara	Johnson	39	Design a video game	Animator	Sound Designer	Game Developer	3D Modeler	Boston
+Grace	Lewis	23	Organize a fundraiser	Event Planner	Volunteer Coordinator	Graphic Designer	Public Relations	San Jose
+Hannah	Lewis	37	Create a clean energy startup	Wind Power Expert	Solar Engineer	Business Strategist	Marketing Expert	Phoenix
+Liam	Wilson	26	Organize a fundraiser	Marketing Specialist	Public Relations	Graphic Designer	Volunteer Coordinator	Dallas
+Will	Taylor	30	Create a clean energy startup	Wind Power Expert	Marketing Expert	Solar Engineer	Business Strategist	Fort Worth
+Uma	Thompson	42	Build a robot	CAD Designer	Electrical Engineer	Mechanical Engineer	Robotics Technician	Jacksonville
+Mia	Martin	53	Film a short movie	Sound Technician	Cinematographer	Editor	Actor	New York
+David	Davis	39	Design a video game	3D Modeler	Game Developer	Animator	Game Designer	San Diego
+Paul	Thompson	32	Organize a fundraiser	Graphic Designer	Marketing Specialist	Volunteer Coordinator	Public Relations	Phoenix
+Xander	Garcia	20	Start a community garden	Event Coordinator	Horticulturist	Fundraiser	Volunteer Coordinator	Denver
+Eva	Robinson	51	Design a video game	Animator	Game Developer	Sound Designer	Game Designer	Dallas
+Will	Moore	39	Organize a fundraiser	Volunteer Coordinator	Public Relations	Event Planner	Graphic Designer	Chicago
+Grace	Anderson	46	Launch a food truck	Logistics Manager	Menu Planner	Cashier	Chef	Seattle
+Charlie	Ramirez	51	Assemble a band	Bassist	Vocalist	Sound Engineer	Drummer	Chicago
+Tom	Martin	40	Start a community garden	Event Coordinator	Fundraiser	Garden Planner	Horticulturist	Los Angeles
+Tom	Smith	59	Build a robot	Programmer	Robotics Technician	Electrical Engineer	CAD Designer	Indianapolis
+Xander	Moore	47	Launch a food truck	Chef	Cashier	Marketing Expert	Logistics Manager	Chicago
+Rachel	Harris	43	Create a clean energy startup	Marketing Expert	Wind Power Expert	Solar Engineer	Business Strategist	Austin
+Tom	Perez	37	Launch a food truck	Marketing Expert	Chef	Menu Planner	Logistics Manager	New York
+Paul	Sanchez	56	Build a robot	Programmer	Robotics Technician	Electrical Engineer	CAD Designer	San Jose
+Will	Thompson	57	Organize a fundraiser	Graphic Designer	Marketing Specialist	Public Relations	Volunteer Coordinator	Los Angeles
+Liam	Sanchez	60	Create a clean energy startup	Business Strategist	Financial Analyst	Wind Power Expert	Solar Engineer	Columbus
+Sophie	Young	19	Assemble a band	Vocalist	Drummer	Sound Engineer	Keyboardist	Fort Worth
+Ian	Martin	53	Film a short movie	Director	Scriptwriter	Editor	Actor	Seattle
+Nina	Davis	23	Build a robot	CAD Designer	Mechanical Engineer	Programmer	Electrical Engineer	New York
+Oliver	Wilson	59	Start a community garden	Volunteer Coordinator	Event Coordinator	Fundraiser	Horticulturist	Fort Worth
+Alice	Miller	34	Assemble a band	Bassist	Sound Engineer	Keyboardist	Guitarist	Denver
+Oliver	Davis	45	Create a clean energy startup	Solar Engineer	Business Strategist	Wind Power Expert	Financial Analyst	Chicago
+Will	Martin	40	Create a clean energy startup	Solar Engineer	Wind Power Expert	Financial Analyst	Marketing Expert	San Antonio
+Quincy	Young	34	Film a short movie	Editor	Cinematographer	Director	Scriptwriter	Austin
+Will	Smith	37	Design a video game	Animator	Game Designer	Sound Designer	3D Modeler	Charlotte
+Nina	Martin	51	Film a short movie	Scriptwriter	Sound Technician	Actor	Cinematographer	Chicago
+Eva	Anderson	60	Design a video game	Sound Designer	3D Modeler	Game Developer	Animator	Seattle
+Alice	Garcia	35	Film a short movie	Actor	Scriptwriter	Director	Sound Technician	Seattle
+Tom	Smith	27	Start a community garden	Horticulturist	Volunteer Coordinator	Event Coordinator	Garden Planner	Charlotte
+Tom	Anderson	60	Publish a digital magazine	Graphic Designer	Editor	Writer	Photographer	Columbus
+Sophie	Jackson	21	Organize a fundraiser	Marketing Specialist	Public Relations	Graphic Designer	Volunteer Coordinator	Jacksonville
+Kyle	King	18	Launch a food truck	Marketing Expert	Cashier	Menu Planner	Logistics Manager	Jacksonville
+Nina	Anderson	42	Build a robot	Robotics Technician	Electrical Engineer	CAD Designer	Programmer	San Jose
+Zoe	Lewis	53	Develop a mobile app	UI/UX Designer	App Developer	Product Manager	Backend Developer	Philadelphia
+Xander	Wilson	47	Start a community garden	Horticulturist	Fundraiser	Garden Planner	Event Coordinator	Jacksonville
+Will	Lee	35	Build a robot	Programmer	Mechanical Engineer	CAD Designer	Electrical Engineer	Los Angeles
+Yara	Wilson	37	Start a community garden	Volunteer Coordinator	Garden Planner	Horticulturist	Event Coordinator	New York
+Frank	Lewis	58	Build a robot	Mechanical Engineer	CAD Designer	Programmer	Electrical Engineer	Houston
+Rachel	Perez	19	Build a robot	Programmer	Robotics Technician	Electrical Engineer	Mechanical Engineer	Houston
+Hannah	White	19	Start a community garden	Volunteer Coordinator	Garden Planner	Fundraiser	Horticulturist	Columbus
+Zoe	Sanchez	43	Start a community garden	Volunteer Coordinator	Event Coordinator	Garden Planner	Horticulturist	Austin
+Julia	King	46	Create a clean energy startup	Marketing Expert	Business Strategist	Financial Analyst	Wind Power Expert	Austin
+Mia	White	30	Develop a mobile app	QA Tester	Product Manager	Backend Developer	App Developer	Houston
+Quincy	Garcia	51	Design a video game	Animator	3D Modeler	Sound Designer	Game Developer	Los Angeles
+Ian	Robinson	39	Design a video game	Animator	Game Designer	Sound Designer	3D Modeler	Charlotte
+Charlie	Ramirez	29	Develop a mobile app	App Developer	UI/UX Designer	Product Manager	QA Tester	Washington
+Xander	Wilson	58	Organize a fundraiser	Public Relations	Event Planner	Marketing Specialist	Volunteer Coordinator	Houston
+Zoe	Harris	54	Film a short movie	Actor	Editor	Director	Cinematographer	Charlotte
+Kyle	Robinson	33	Publish a digital magazine	Editor	Graphic Designer	Social Media Manager	Writer	San Diego
+Zoe	Lewis	45	Design a video game	3D Modeler	Animator	Sound Designer	Game Designer	Philadelphia
+Julia	Harris	28	Launch a food truck	Menu Planner	Logistics Manager	Chef	Marketing Expert	Fort Worth
+Charlie	Ramirez	41	Film a short movie	Editor	Director	Scriptwriter	Cinematographer	Jacksonville
+Kyle	Taylor	37	Start a community garden	Fundraiser	Event Coordinator	Volunteer Coordinator	Horticulturist	Chicago
