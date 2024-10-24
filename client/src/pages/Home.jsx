@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import fetchData from "../helper/fetchData";
-import { BrowserRouter as Router, Routes, Route,Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   //example of api request
