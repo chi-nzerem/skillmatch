@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import fetchData from "../helper/fetchData";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   //example of api request
@@ -13,15 +14,21 @@ const Home = () => {
       headers: {
         "content-type": "application/json",
       },
-    });
+      });
     console.log(data);
-  };
+    };
 
   useEffect(() => {
     apiRequest();
   }, []);
 
-  return <div className=" text-9xl text-[red]  "> Home Page</div>;
+  return (
+          <div>
+          <div className=" text-9xl text-[red]  "> Home Page</div>
+          <Link to="/landing">landing</Link>
+
+          </div>
+        );
 };
 
 export default Home;
