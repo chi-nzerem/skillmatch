@@ -14,9 +14,9 @@ const Home = () => {
       headers: {
         "content-type": "application/json",
       },
-    });
+      });
     console.log(data);
-  };
+    };
 
   useEffect(() => {
     apiRequest();
@@ -25,7 +25,7 @@ const Home = () => {
   return (
           <>
           <div className=" text-9xl text-[red]  "> Home Page</div>
-          <Link to="/landing">landing</Link>
+          <Link to="landing">landing</Link>
 
           </>
         )
