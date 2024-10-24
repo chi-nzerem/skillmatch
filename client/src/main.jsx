@@ -1,29 +1,30 @@
-import React from "react";
-import { StrictMode } from "react";
+
 import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import Root from "./routes/root";
-import Landing from "./pages/Landing";
-import App from "./App.jsx";
+import Landing from "./routes/Landing";
+import Home from "./routes/Home";
+import App from "./App";
 
 import "./index.css";
 
 const router = createBrowserRouter([
     {
         path: '/',
-        element: <Root />,
+        element: <Root/>,
     },
     {
-        path: 'landing',
+        path: '/landing',
         element: <Landing />,
+    },
+    {
+        path: '/home',
+        element:<Home />,
     },
 
 ]);
 
-const root = createRoot(document.getElementById("root"));
-root.render(
-    <React.StrictMode>
-        <RouterProvider router={router} />
-    </React.StrictMode>
-);
+const main = document.getElementById("root");
+const root = createRoot(main);
+root.render( <RouterProvider router={router}/>);

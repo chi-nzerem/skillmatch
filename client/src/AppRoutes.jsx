@@ -7,10 +7,10 @@ function AppRoutes() {
   return (
     <Router>
       <Routes>
-        <Switch>
+        
         <Route path="/" element={<Home />} />
-        <Route path="/landing" element={<Landing />} />
-        </Switch>
+    
+      
       </Routes>
     </Router>
   );

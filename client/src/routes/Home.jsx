@@ -23,12 +23,12 @@ const Home = () => {
   }, []);
 
   return (
-          <>
+          <div>
           <div className=" text-9xl text-[red]  "> Home Page</div>
-          <Link to="landing">landing</Link>
+          <Link to="/landing">landing</Link>
 
-          </>
-        )
+          </div>
+        );
 };
 
 export default Home;
